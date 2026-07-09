@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Ryan! 👋
 
-<!--
-**CK-coder0/CK-coder0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de informatica focado em desenvolvimento Fullstack. Atualmente estou aprimorando meus conhecimentos em criação de APIs e arquitetura de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 🎓 Estudando no Instituto Federal Campus Araraquara - IFSP ARQ.
+- 💡 Gosto de resolver problemas reais através do código e automações.
+- 🌱 Atualmente focando em dominar **Flask**.
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript.
+- **Frameworks/Bibliotecas:** Flask.
+- **Ferramentas:** Git, GitHub, VS Code.
+
+### 📬 Como me encontrar
+- 📧 [Email](mailto:ryarmazem@gmail.com)
